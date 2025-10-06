@@ -24,6 +24,12 @@ https://github.com/bmukankusi/ImmersiveArts_NP-Art-Center.git
    c. Admins may log in to manage artworks and view analytics
 
    ### Designs(Figma design)
+   <img width="249" height="538" alt="Image" src="https://github.com/user-attachments/assets/29a02ae9-322c-4726-832a-c8212652ee75" />
+
+   <img width="279" height="553" alt="Image" src="https://github.com/user-attachments/assets/794db01d-5ba7-4e53-8448-9f2da7f908bc" />                      <img width="307" height="555" alt="Image" src="https://github.com/user-attachments/assets/621a9838-0df0-428d-b17d-03e79250d41b" />
+
+   <img width="274" height="561" alt="Image" src="https://github.com/user-attachments/assets/0573c5d4-afc7-4d22-8ba8-5c21db5e2f6e" />                         <img width="318" height="572" alt="Image" src="https://github.com/user-attachments/assets/cc61151c-be2f-482e-ac81-18ec5ed673eb" />
+   
    ### Deployment plan
    - Beta distribution: initial testing locally
    - Feedback collection: monitor initial usage and collect feedback about any performance issues.
