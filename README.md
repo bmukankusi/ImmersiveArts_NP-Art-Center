@@ -11,6 +11,7 @@ https://github.com/bmukankusi/ImmersiveArts_NP-Art-Center.git
  - Vuforia SDK
  - Firebase account
  - Android/iOS mobile device that supports AR
+         NOTE: For now I am using Vuforia, but for the final application, I will be using AR Foundation for a flexible build on mobile devices.
   ### Steps
   1. Clone the repository: git clone
   2. Open the project in Unity
@@ -29,10 +30,13 @@ https://github.com/bmukankusi/ImmersiveArts_NP-Art-Center.git
    <img width="279" height="553" alt="Image" src="https://github.com/user-attachments/assets/794db01d-5ba7-4e53-8448-9f2da7f908bc" />                      <img width="307" height="555" alt="Image" src="https://github.com/user-attachments/assets/621a9838-0df0-428d-b17d-03e79250d41b" />
 
    <img width="274" height="561" alt="Image" src="https://github.com/user-attachments/assets/0573c5d4-afc7-4d22-8ba8-5c21db5e2f6e" />                         <img width="318" height="572" alt="Image" src="https://github.com/user-attachments/assets/cc61151c-be2f-482e-ac81-18ec5ed673eb" />
-   
+  
+   ### Video Recording
+   - Link to video: https://www.canva.com/design/DAG1AeLwXOA/lCj7jjKDKUmFmjugjrfpRg/view?utm_content=DAG1AeLwXOA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h912ba33119 
+  
    ### Deployment plan
    - Beta distribution: initial testing locally
-   - Feedback collection: monitor initial usage and collect feedback about any performance issues.
+   - Feedback collection: monitor initial usage and collect feedback about any performance issues from art gallery.
    - Documentation: create user guides/app support materials
    - Deploying on store: set the application on Google Play Store
    - App release for public access
